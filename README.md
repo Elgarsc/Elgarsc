@@ -16,10 +16,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![Elgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Find me here
 - [LinkedIn](#)
