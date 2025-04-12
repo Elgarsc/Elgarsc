@@ -1,6 +1,7 @@
 # Hi there, I'm Elgars 👋
 
-🎯 I'm a student from Latvia! /n
+🎯 I'm a student from Latvia!
+
 💻 Currently building awesome apps and learning new tech every day.
 
 ---
