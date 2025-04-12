@@ -18,4 +18,4 @@
 ---
 
 ## 🌐 Find me here
-- [LinkedIn](#)
+- [LinkedIn](#www.linkedin.com/in/elgars-cerbulis)
